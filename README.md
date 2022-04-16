@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianodad&label=Profile%20views&color=0e75b6&style=flat" alt="ianodad" /> </p>
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **Microservices** **Web3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ianodad](https://github.com/Ianodad)
 
