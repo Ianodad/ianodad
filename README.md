@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ianodad@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio.ianodad.vercel.app/](https://portfolio.ianodad.vercel.app/)
+- 📄 Know about my experiences [https://ian-adera.vercel.app/](https://ian-adera.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
