@@ -1,33 +1,158 @@
-<h1 align="center">Hi 👋, I'm Ian Adera</h1>
-<h3 align="center">A passionate  Fullstack Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ianodad&label=Profile%20views&color=0e75b6&style=flat" alt="ianodad" /> </p>
+# `IAN.ADERA`
 
-- 🌱 I’m currently learning **A.I**, **Microservices** , **Web3**
+<a href="https://ianodad.github.io/IanAderaPortfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&width=800&height=45&lines=Senior+Frontend+Developer;I+build+cinematic+web+experiences;And+AI+systems+that+cite+their+sources;Nairobi%2C+Kenya" alt="Senior Frontend Developer — I build cinematic web experiences and AI systems that cite their sources — Nairobi, Kenya" />
+</a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ianodad](https://github.com/Ianodad)
+<br />
 
-- 📝 I regularly write articles on [https://medium.com/@ianodad](https://medium.com/@ianodad)
+<a href="https://ianodad.github.io/IanAderaPortfolio/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ian-odhiambo/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://medium.com/@ianodad"><img src="https://img.shields.io/badge/Dev_Genius-0F172A?style=for-the-badge&logo=medium&logoColor=FFFFFF" alt="Medium — Dev Genius" /></a>
+<a href="https://dev.to/ianodad"><img src="https://img.shields.io/badge/dev.to-0F172A?style=for-the-badge&logo=devdotto&logoColor=FFFFFF" alt="dev.to" /></a>
+<a href="mailto:ianodad@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EC4899" alt="Email" /></a>
 
-- 💬 Ask me about **react, javascript, python**
+<img src="https://komarev.com/ghpvc/?username=ianodad&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
 
-- 📫 How to reach me **ianodad@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://ianodad.github.io/IanAderaPortfolio/](https://ianodad.github.io/IanAderaPortfolio/)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/adera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/adera" height="30" width="40" /></a>
-<a href="https://dev.to/ianodad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ianodad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ian-odhiambo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ian-odhiambo/" height="30" width="40" /></a>
-<a href="https://medium.com/@ianodad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ianodad" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ianodad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ianodad" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ianodad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@ianodad" height="30" width="40" /></a>
-</p>
+## `~ whoami`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+Frontend-leaning full-stack engineer in Nairobi. I spend my days on insurance tech at **Britam**, and my nights on two things: websites that feel like film, and AI systems that show their working. Years of writing for [Dev Genius](https://medium.com/@ianodad) taught me that if you can't explain it simply, you don't understand it yet — which is roughly how I approach code too.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianodad&show_icons=true&locale=en&layout=compact" alt="ianodad" /></p>
+```ts
+const ian = {
+  role:      "Senior Frontend Developer @ Britam",
+  based:     "Nairobi, Kenya 🇰🇪",
+  building:  ["scroll-driven cinematic web", "AI that cites its sources"],
+  writing:   "Dev Genius — 10,000+ reads",
+  exploring: ["multi-agent orchestration", "agentic RAG", "local-first mobile"],
+  belief:    "Every project is a chance to invent and reinvent.",
+};
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianodad&show_icons=true&locale=en" alt="ianodad" /></p>
+---
+
+## `~ impact & work`
+
+> Recent builds. Everything in the **Live** column is deployed and clickable.
+
+| Project | What it is | Stack | Live |
+|:--|:--|:--|:--|
+| **DiraAi** | AI legal research for Kenya. Ask a question, get an answer cited to actual Kenyan Acts and judgments — the human still decides. Cinematic site with a WebGL brass compass hero. | `Three.js` `GSAP` `Lenis` `TypeScript` | **[diralaw.com →](https://diralaw.com)** |
+| **ANASA Heights** | Scroll-scrubbed flight film for a 34-floor Westlands tower. The video seeks frame-by-frame with your scroll position while the hard numbers stay reachable at every pause. | `GSAP` `Lenis` `TypeScript` `Playwright` | **[anasa-heights →](https://anasa-heights.vercel.app)** |
+| **Nairobi Iconic Buildings** | Scroll to fly through a folded-paper Nairobi. Ten landmark towers, one continuous camera flight, stitched from six AI-generated video legs. | `GPT-Image-2` `Seedance` `ffmpeg` `Vanilla JS` | **[nairobi-iconic-buildings →](https://nairobi-iconic-buildings.vercel.app)** |
+| **Vector11** | Monochrome football intelligence chat. A RAG pipeline over football news and stats, answering matchday questions with tactical, data-aware responses. | `Next.js 16` `React 19` `Astra DB` `LangChain` | **[vector11 →](https://vector11.vercel.app)** · [code](https://github.com/Ianodad/Vector11) |
+| **DukaSmart** | Local-first inventory and sales app for Kenyan duka shopkeepers. One owner, one kiosk, one phone — nothing leaves the device. Closes the day with a plain-language summary. | `Flutter` `Riverpod` `Drift/SQLite` | [code →](https://github.com/Ianodad/dukasmart) |
+
+---
+
+## `~ tech arsenal`
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Vite-0F172A?style=for-the-badge&logo=vite&logoColor=A855F7" alt="Vite" />
+<img src="https://img.shields.io/badge/GSAP-0F172A?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP" />
+<img src="https://img.shields.io/badge/Three.js-0F172A?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" />
+
+**Backend & Data**
+
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/GraphQL-0F172A?style=for-the-badge&logo=graphql&logoColor=EC4899" alt="GraphQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Redis-0F172A?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
+
+**AI & Agents**
+
+<img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
+<img src="https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Anthropic-0F172A?style=for-the-badge&logo=anthropic&logoColor=D4A27F" alt="Anthropic" />
+<img src="https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
+<img src="https://img.shields.io/badge/Astra_DB-0F172A?style=for-the-badge&logo=datastax&logoColor=A855F7" alt="DataStax Astra DB" />
+
+**Cloud & DevOps**
+
+<img src="https://img.shields.io/badge/Azure-0F172A?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
+<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+<img src="https://img.shields.io/badge/GCP-0F172A?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-0F172A?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Jenkins-0F172A?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+
+**Mobile & Testing**
+
+<img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
+<img src="https://img.shields.io/badge/React_Native-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright" />
+<img src="https://img.shields.io/badge/Jest-0F172A?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest" />
+
+---
+
+## `~ 2026 frontiers`
+
+What I'm actively pushing on this year:
+
+- **Multi-agent orchestration** — routing work across models by strength and cost instead of throwing one model at everything.
+- **Agentic RAG** — retrieval that reasons about what it's missing, then goes and gets it. Everything DiraAi does rests on this.
+- **Cinematic web** — scroll-scrubbed video, WebGL, and motion that earns its frame budget on a Nairobi mobile connection.
+- **Local-first mobile** — apps that work fully offline first and sync later, because that's the actual constraint here.
+
+---
+
+<details>
+<summary><b><code>~ career logs</code></b> — click to expand</summary>
+
+<br />
+
+| Period | Role | Where |
+|:--|:--|:--|
+| Sept 2024 — Present | Senior Frontend Developer | **Britam** — insurance tech, Next.js + TypeScript, Azure DevOps pipelines |
+| Jul 2025 — Jan 2026 | Senior Frontend Developer | **Endeavor Streaming** (Remote) — high-traffic streaming across web, TV, mobile |
+| Feb 2023 — Feb 2024 | Senior Full Stack Developer | **Metaverse Architects** — GCP, Node.js APIs, led a dev team |
+| Jul 2022 — Dec 2022 | Senior Full Stack Developer | **YLabs** — React Native, Next.js, GraphQL, AWS |
+| Jun 2020 — Jan 2024 | Technical Writer | **Dev Genius** (Medium) — 10,000+ reads |
+| Jan 2019 — 2021 | Full Stack Developer | **Freelance** — cut hosting costs 70%, automated CI/CD |
+
+</details>
+
+---
+
+## `~ writing`
+
+I write for **[Dev Genius](https://medium.com/@ianodad)** on Medium — CI/CD, cloud migration, and lately what it actually takes to ship AI systems people trust. Over 10,000 reads and counting.
+
+---
+
+## `~ stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ianodad&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=A855F7&text_color=94A3B8" alt="Ian's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianodad&layout=compact&hide_border=true&langs_count=8&bg_color=0F172A&title_color=22D3EE&text_color=94A3B8" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Every project is an opportunity to learn, to figure out problems and challenges, to invent and reinvent.**
+
+<sub>— David Rockwell</sub>
+
+<br />
+
+<a href="https://ianodad.github.io/IanAderaPortfolio/"><b>See the work →</b></a>
+
+</div>
