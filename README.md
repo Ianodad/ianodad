@@ -68,6 +68,17 @@ per-answer, not assumed. Not legal advice; the advocate still decides.
 
 ---
 
+## `~ in the works`
+
+> Private for now — no public link or access yet. Happy to talk through any of them.
+
+| Project | What it is | Stack | Status |
+|:--|:--|:--|:--|
+| **Operon** | Agentic platform for people who run their own business. Syncs Gmail, LinkedIn and WhatsApp, works out who's owed a follow-up, and hands you one prioritised queue each morning instead of four inboxes. An AI relationship manager that drafts the reply and tracks the outcome. | `Python` `LangGraph` `FastAPI` `Next.js` `Postgres` `Redis` | 🔒 Private beta |
+| **PesaWallet** | Personal finance for the way money actually moves in Kenya. Reads bank and M-Pesa SMS on-device and turns them into real transaction analytics — no bank API, no data leaving the phone. | `Flutter` `SQLite` | 🔒 In development |
+
+---
+
 ## `~ tech arsenal`
 
 **Frontend**
@@ -92,7 +103,7 @@ per-answer, not assumed. Not legal advice; the advocate still decides.
 
 **Tools**
 
-<p><img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" /> <img src="https://img.shields.io/badge/Claude_Code-0F172A?style=for-the-badge&logo=anthropic&logoColor=D4A27F" alt="Claude Code" /> <img src="https://img.shields.io/badge/Codex-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI Codex" /> <img src="https://img.shields.io/badge/Higgsfield_AI-0F172A?style=for-the-badge&logo=ffmpeg&logoColor=22D3EE" alt="Higgsfield AI" /> <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" /> <img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" /> <img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" /> <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" /></p>
+<p><img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" /> <img src="https://img.shields.io/badge/Claude_Code-0F172A?style=for-the-badge&logo=anthropic&logoColor=D4A27F" alt="Claude Code" /> <img src="https://img.shields.io/badge/Codex-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI Codex" /> <img src="https://img.shields.io/badge/✦_Higgsfield_AI-0F172A?style=for-the-badge&labelColor=0F172A&color=0F172A" alt="Higgsfield AI" /> <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" /> <img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" /> <img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" /> <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" /></p>
 
 ---
 
