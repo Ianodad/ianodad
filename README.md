@@ -29,7 +29,7 @@ Full-stack engineer in Nairobi. I spend my days on insurance tech at **Britam**,
 
 ```ts
 const ian = {
-  day_job:   "Senior Full Stack Developer @ Britam",
+  day_job:   "Senior Software Developer @ Britam",
   stack:     "full-stack — React/Next up front, Go + FastAPI behind it",
   based:     "Nairobi, Kenya 🇰🇪",
   building:  ["scroll-driven cinematic web", "AI that cites its sources"],
@@ -63,6 +63,7 @@ per-answer, not assumed. Not legal advice; the advocate still decides.
 |:--|:--|:--|:--|
 | **ANASA Heights** | Scroll-scrubbed flight film for a 34-floor Westlands tower. The video seeks frame-by-frame with your scroll position while the hard numbers stay reachable at every pause. | `Higgsfield` `Seedance 2.0` `GSAP` `Lenis` `TypeScript` | **[anasa-heights →](https://anasa-heights.vercel.app)** |
 | **Nairobi Iconic Buildings** | Scroll to fly through a folded-paper Nairobi. Ten landmark towers, one continuous camera flight, stitched from six AI-generated video legs. | `Higgsfield` `Seedance 2.0` `GPT-Image-2` `ffmpeg` | **[nairobi-iconic-buildings →](https://nairobi-iconic-buildings.vercel.app)** |
+| **Chipukizi** | Nursery school site for ages 1–6 in Nairobi. A hand-drawn character tracks the cursor across the hero, and smooth scroll carries you through the day, the classes and booking a visit. | `Vite` `GSAP` `Lenis` `Vanilla JS` | **[chipukizi →](https://chipukizi.vercel.app)** |
 | **Vector11** | Monochrome football intelligence chat. A RAG pipeline over football news and stats, answering matchday questions with tactical, data-aware responses. | `Next.js 16` `React 19` `Astra DB` `LangChain` | **[vector11 →](https://vector11.vercel.app)** · [code](https://github.com/Ianodad/Vector11) |
 | **DukaSmart** | Local-first inventory and sales app for Kenyan duka shopkeepers. One owner, one kiosk, one phone — nothing leaves the device. Closes the day with a plain-language summary. | `Flutter` `Riverpod` `Drift/SQLite` | [code →](https://github.com/Ianodad/dukasmart) |
 
@@ -125,7 +126,7 @@ What I'm actively pushing on this year:
 
 | Period | Role | Where |
 |:--|:--|:--|
-| Sept 2024 — Present | Senior Full Stack Developer | **Britam** — insurance tech, Next.js + TypeScript, Azure DevOps pipelines |
+| Sept 2024 — Present | Senior Software Developer | **Britam** — enterprise insurance platforms, Next.js + TypeScript, scalable React architecture, Azure DevOps CI/CD, Docker |
 | Jul 2025 — Jan 2026 | Senior Full Stack Developer | **Endeavor Streaming** (Remote) — high-traffic streaming across web, TV, mobile |
 | Feb 2023 — Feb 2024 | Senior Full Stack Developer | **Metaverse Architects** — GCP, Node.js APIs, led a dev team |
 | Jul 2022 — Dec 2022 | Senior Full Stack Developer | **YLabs** — React Native, Next.js, GraphQL, AWS |
