@@ -2,7 +2,7 @@
 
 # `IAN.ADERA`
 
-### Senior Frontend Developer &nbsp;·&nbsp; Nairobi, Kenya 🇰🇪
+### Full-Stack Developer &nbsp;·&nbsp; Nairobi, Kenya 🇰🇪
 
 **I build cinematic web experiences — and AI systems that cite their sources.**
 
@@ -25,11 +25,12 @@
 
 ## `~ whoami`
 
-Frontend-leaning full-stack engineer in Nairobi. I spend my days on insurance tech at **Britam**, and my nights on two things: websites that feel like film, and AI systems that show their working. Years of writing for [Dev Genius](https://medium.com/@ianodad) taught me that if you can't explain it simply, you don't understand it yet — which is roughly how I approach code too.
+Full-stack engineer in Nairobi. I spend my days on insurance tech at **Britam**, and my nights on two things: websites that feel like film, and AI systems that show their working. Years of writing for [Dev Genius](https://medium.com/@ianodad) taught me that if you can't explain it simply, you don't understand it yet — which is roughly how I approach code too.
 
 ```ts
 const ian = {
-  role:      "Senior Frontend Developer @ Britam",
+  day_job:   "Senior Frontend Developer @ Britam",
+  stack:     "full-stack — React/Next up front, Go + FastAPI behind it",
   based:     "Nairobi, Kenya 🇰🇪",
   building:  ["scroll-driven cinematic web", "AI that cites its sources"],
   writing:   "Dev Genius — 10,000+ reads",
@@ -60,8 +61,8 @@ per-answer, not assumed. Not legal advice; the advocate still decides.
 
 | Project | What it is | Stack | Live |
 |:--|:--|:--|:--|
-| **ANASA Heights** | Scroll-scrubbed flight film for a 34-floor Westlands tower. The video seeks frame-by-frame with your scroll position while the hard numbers stay reachable at every pause. | `GSAP` `Lenis` `TypeScript` `Playwright` | **[anasa-heights →](https://anasa-heights.vercel.app)** |
-| **Nairobi Iconic Buildings** | Scroll to fly through a folded-paper Nairobi. Ten landmark towers, one continuous camera flight, stitched from six AI-generated video legs. | `GPT-Image-2` `Seedance` `ffmpeg` `Vanilla JS` | **[nairobi-iconic-buildings →](https://nairobi-iconic-buildings.vercel.app)** |
+| **ANASA Heights** | Scroll-scrubbed flight film for a 34-floor Westlands tower. The video seeks frame-by-frame with your scroll position while the hard numbers stay reachable at every pause. | `Higgsfield` `Seedance 2.0` `GSAP` `Lenis` `TypeScript` | **[anasa-heights →](https://anasa-heights.vercel.app)** |
+| **Nairobi Iconic Buildings** | Scroll to fly through a folded-paper Nairobi. Ten landmark towers, one continuous camera flight, stitched from six AI-generated video legs. | `Higgsfield` `Seedance 2.0` `GPT-Image-2` `ffmpeg` | **[nairobi-iconic-buildings →](https://nairobi-iconic-buildings.vercel.app)** |
 | **Vector11** | Monochrome football intelligence chat. A RAG pipeline over football news and stats, answering matchday questions with tactical, data-aware responses. | `Next.js 16` `React 19` `Astra DB` `LangChain` | **[vector11 →](https://vector11.vercel.app)** · [code](https://github.com/Ianodad/Vector11) |
 | **DukaSmart** | Local-first inventory and sales app for Kenyan duka shopkeepers. One owner, one kiosk, one phone — nothing leaves the device. Closes the day with a plain-language summary. | `Flutter` `Riverpod` `Drift/SQLite` | [code →](https://github.com/Ianodad/dukasmart) |
 
@@ -75,7 +76,7 @@ per-answer, not assumed. Not legal advice; the advocate still decides.
 
 **Backend & Data**
 
-<p><img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" /> <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /> <img src="https://img.shields.io/badge/GraphQL-0F172A?style=for-the-badge&logo=graphql&logoColor=EC4899" alt="GraphQL" /> <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-0F172A?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" /></p>
+<p><img src="https://img.shields.io/badge/Go-0F172A?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" /> <img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" /> <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" /> <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /> <img src="https://img.shields.io/badge/GraphQL-0F172A?style=for-the-badge&logo=graphql&logoColor=EC4899" alt="GraphQL" /> <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-0F172A?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" /></p>
 
 **AI & Agents**
 
@@ -88,6 +89,10 @@ per-answer, not assumed. Not legal advice; the advocate still decides.
 **Mobile & Testing**
 
 <p><img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" /> <img src="https://img.shields.io/badge/React_Native-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright" /> <img src="https://img.shields.io/badge/Jest-0F172A?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest" /></p>
+
+**Tools**
+
+<p><img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" /> <img src="https://img.shields.io/badge/Claude_Code-0F172A?style=for-the-badge&logo=anthropic&logoColor=D4A27F" alt="Claude Code" /> <img src="https://img.shields.io/badge/Codex-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI Codex" /> <img src="https://img.shields.io/badge/Higgsfield_AI-0F172A?style=for-the-badge&logo=ffmpeg&logoColor=22D3EE" alt="Higgsfield AI" /> <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" /> <img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" /> <img src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" /> <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" /></p>
 
 ---
 
