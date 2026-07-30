@@ -2,9 +2,11 @@
 
 # `IAN.ADERA`
 
-<a href="https://ianodad.github.io/IanAderaPortfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&width=800&height=45&lines=Senior+Frontend+Developer;I+build+cinematic+web+experiences;And+AI+systems+that+cite+their+sources;Nairobi%2C+Kenya" alt="Senior Frontend Developer — I build cinematic web experiences and AI systems that cite their sources — Nairobi, Kenya" />
-</a>
+### Senior Frontend Developer &nbsp;·&nbsp; Nairobi, Kenya 🇰🇪
+
+**I build cinematic web experiences — and AI systems that cite their sources.**
+
+<p><img src="https://img.shields.io/badge/CINEMATIC_WEB-0F172A?style=flat-square&labelColor=0F172A&color=22D3EE" alt="Cinematic web" /> <img src="https://img.shields.io/badge/AGENTIC_RAG-0F172A?style=flat-square&labelColor=0F172A&color=A855F7" alt="Agentic RAG" /> <img src="https://img.shields.io/badge/LOCAL_FIRST_MOBILE-0F172A?style=flat-square&labelColor=0F172A&color=EC4899" alt="Local-first mobile" /></p>
 
 <br />
 
@@ -55,47 +57,23 @@ const ian = {
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Vite-0F172A?style=for-the-badge&logo=vite&logoColor=A855F7" alt="Vite" />
-<img src="https://img.shields.io/badge/GSAP-0F172A?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP" />
-<img src="https://img.shields.io/badge/Three.js-0F172A?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" />
+<p><img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /> <img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Vite-0F172A?style=for-the-badge&logo=vite&logoColor=A855F7" alt="Vite" /> <img src="https://img.shields.io/badge/GSAP-0F172A?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP" /> <img src="https://img.shields.io/badge/Three.js-0F172A?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" /></p>
 
 **Backend & Data**
 
-<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/GraphQL-0F172A?style=for-the-badge&logo=graphql&logoColor=EC4899" alt="GraphQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Redis-0F172A?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
+<p><img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" /> <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /> <img src="https://img.shields.io/badge/GraphQL-0F172A?style=for-the-badge&logo=graphql&logoColor=EC4899" alt="GraphQL" /> <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-0F172A?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" /></p>
 
 **AI & Agents**
 
-<img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
-<img src="https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Anthropic-0F172A?style=for-the-badge&logo=anthropic&logoColor=D4A27F" alt="Anthropic" />
-<img src="https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
-<img src="https://img.shields.io/badge/Astra_DB-0F172A?style=for-the-badge&logo=datastax&logoColor=A855F7" alt="DataStax Astra DB" />
+<p><img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=1C3C3C" alt="LangChain" /> <img src="https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI" /> <img src="https://img.shields.io/badge/Anthropic-0F172A?style=for-the-badge&logo=anthropic&logoColor=D4A27F" alt="Anthropic" /> <img src="https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Ollama" /> <img src="https://img.shields.io/badge/Astra_DB-0F172A?style=for-the-badge&logo=datastax&logoColor=A855F7" alt="DataStax Astra DB" /></p>
 
 **Cloud & DevOps**
 
-<img src="https://img.shields.io/badge/Azure-0F172A?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
-<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-<img src="https://img.shields.io/badge/GCP-0F172A?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
-<img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-0F172A?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Jenkins-0F172A?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins" />
-<img src="https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+<p><img src="https://img.shields.io/badge/Azure-0F172A?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure" /> <img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" /> <img src="https://img.shields.io/badge/GCP-0F172A?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" /> <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Jenkins-0F172A?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins" /> <img src="https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" /></p>
 
 **Mobile & Testing**
 
-<img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
-<img src="https://img.shields.io/badge/React_Native-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright" />
-<img src="https://img.shields.io/badge/Jest-0F172A?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest" />
+<p><img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" /> <img src="https://img.shields.io/badge/React_Native-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright" /> <img src="https://img.shields.io/badge/Jest-0F172A?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest" /></p>
 
 ---
 
