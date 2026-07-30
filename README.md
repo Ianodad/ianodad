@@ -42,7 +42,7 @@ const ian = {
 
 ## `~ impact & work`
 
-### 🧭 DiraAi — **[app.diralaw.com](https://app.diralaw.com)**
+### 🧭 DiraAi — **[app.diralaw.com](https://app.diralaw.com)** &nbsp;·&nbsp; <sub>[diralaw.com](https://diralaw.com)</sub>
 
 > **Legal answers with the source attached.** The law, cited. Starting with Kenya.
 
