@@ -127,7 +127,7 @@ What I'm actively pushing on this year:
 | Period | Role | Where |
 |:--|:--|:--|
 | Sept 2024 — Present | Senior Software Developer | **Britam** — enterprise insurance platforms, Next.js + TypeScript, scalable React architecture, Azure DevOps CI/CD, Docker |
-| Jul 2025 — Jan 2026 | Senior Full Stack Developer | **Endeavor Streaming** (Remote) — high-traffic streaming across web, TV, mobile |
+| Jul 2025 — Jan 2026 | Senior Frontend Developer | **Endeavor Streaming** (Remote) — high-traffic streaming across web, TV and mobile surfaces; React + TypeScript |
 | Feb 2023 — Feb 2024 | Senior Full Stack Developer | **Metaverse Architects** — GCP, Node.js APIs, led a dev team |
 | Jul 2022 — Dec 2022 | Senior Full Stack Developer | **YLabs** — React Native, Next.js, GraphQL, AWS |
 | Jun 2020 — Jan 2024 | Technical Writer | **Dev Genius** (Medium) — 10,000+ reads |
