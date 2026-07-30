@@ -29,7 +29,7 @@ Full-stack engineer in Nairobi. I spend my days on insurance tech at **Britam**,
 
 ```ts
 const ian = {
-  day_job:   "Senior Frontend Developer @ Britam",
+  day_job:   "Senior Full Stack Developer @ Britam",
   stack:     "full-stack — React/Next up front, Go + FastAPI behind it",
   based:     "Nairobi, Kenya 🇰🇪",
   building:  ["scroll-driven cinematic web", "AI that cites its sources"],
@@ -125,8 +125,8 @@ What I'm actively pushing on this year:
 
 | Period | Role | Where |
 |:--|:--|:--|
-| Sept 2024 — Present | Senior Frontend Developer | **Britam** — insurance tech, Next.js + TypeScript, Azure DevOps pipelines |
-| Jul 2025 — Jan 2026 | Senior Frontend Developer | **Endeavor Streaming** (Remote) — high-traffic streaming across web, TV, mobile |
+| Sept 2024 — Present | Senior Full Stack Developer | **Britam** — insurance tech, Next.js + TypeScript, Azure DevOps pipelines |
+| Jul 2025 — Jan 2026 | Senior Full Stack Developer | **Endeavor Streaming** (Remote) — high-traffic streaming across web, TV, mobile |
 | Feb 2023 — Feb 2024 | Senior Full Stack Developer | **Metaverse Architects** — GCP, Node.js APIs, led a dev team |
 | Jul 2022 — Dec 2022 | Senior Full Stack Developer | **YLabs** — React Native, Next.js, GraphQL, AWS |
 | Jun 2020 — Jan 2024 | Technical Writer | **Dev Genius** (Medium) — 10,000+ reads |
