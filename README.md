@@ -16,6 +16,7 @@
 <a href="https://dev.to/ianodad"><img src="https://img.shields.io/badge/dev.to-0F172A?style=for-the-badge&logo=devdotto&logoColor=FFFFFF" alt="dev.to" /></a>
 <a href="mailto:ianodad@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EC4899" alt="Email" /></a>
 
+<img src="https://img.shields.io/github/followers/Ianodad?style=flat-square&logo=github&logoColor=22D3EE&label=FOLLOWERS&labelColor=0F172A&color=0F172A" alt="GitHub followers" />
 <img src="https://komarev.com/ghpvc/?username=ianodad&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
 
 </div>
@@ -41,11 +42,24 @@ const ian = {
 
 ## `~ impact & work`
 
-> Recent builds. Everything in the **Live** column is deployed and clickable.
+### 🧭 DiraAi — **[app.diralaw.com](https://app.diralaw.com)**
+
+> **Legal answers with the source attached.** The law, cited. Starting with Kenya.
+
+The thing I'm building. Ask a legal question, get an answer where every claim links back to the
+actual Kenyan Act or judgment it came from — verifiable in one click, because trust is earned
+per-answer, not assumed. Not legal advice; the advocate still decides.
+
+<p><img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/Clerk-0F172A?style=flat-square&logo=clerk&logoColor=6C47FF" alt="Clerk" /> <img src="https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" /> <img src="https://img.shields.io/badge/LangGraph-0F172A?style=flat-square&logo=langchain&logoColor=1C3C3C" alt="LangGraph" /> <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Chroma-0F172A?style=flat-square&logo=chromatic&logoColor=A855F7" alt="ChromaDB" /> <img src="https://img.shields.io/badge/Neo4j-0F172A?style=flat-square&logo=neo4j&logoColor=4581C3" alt="Neo4j" /> <img src="https://img.shields.io/badge/Celery-0F172A?style=flat-square&logo=celery&logoColor=37814A" alt="Celery" /> <img src="https://img.shields.io/badge/Cohere-0F172A?style=flat-square&logo=cohere&logoColor=39594D" alt="Cohere rerank" /> <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" /></p>
+
+<sub>Next.js app (Clerk auth, TanStack Query, PDF viewer) → FastAPI + LangGraph agent → Postgres, Chroma vector search, a Neo4j citation graph, Cohere reranking, and Celery workers doing the ingest.</sub>
+
+---
+
+**Also recent** — everything in the **Live** column is deployed and clickable.
 
 | Project | What it is | Stack | Live |
 |:--|:--|:--|:--|
-| **DiraAi** | AI legal research for Kenya. Ask a question, get an answer cited to actual Kenyan Acts and judgments — the human still decides. Cinematic site with a WebGL brass compass hero. | `Three.js` `GSAP` `Lenis` `TypeScript` | **[diralaw.com →](https://diralaw.com)** |
 | **ANASA Heights** | Scroll-scrubbed flight film for a 34-floor Westlands tower. The video seeks frame-by-frame with your scroll position while the hard numbers stay reachable at every pause. | `GSAP` `Lenis` `TypeScript` `Playwright` | **[anasa-heights →](https://anasa-heights.vercel.app)** |
 | **Nairobi Iconic Buildings** | Scroll to fly through a folded-paper Nairobi. Ten landmark towers, one continuous camera flight, stitched from six AI-generated video legs. | `GPT-Image-2` `Seedance` `ffmpeg` `Vanilla JS` | **[nairobi-iconic-buildings →](https://nairobi-iconic-buildings.vercel.app)** |
 | **Vector11** | Monochrome football intelligence chat. A RAG pipeline over football news and stats, answering matchday questions with tactical, data-aware responses. | `Next.js 16` `React 19` `Astra DB` `LangChain` | **[vector11 →](https://vector11.vercel.app)** · [code](https://github.com/Ianodad/Vector11) |
@@ -111,15 +125,6 @@ What I'm actively pushing on this year:
 I write for **[Dev Genius](https://medium.com/@ianodad)** on Medium — CI/CD, cloud migration, and lately what it actually takes to ship AI systems people trust. Over 10,000 reads and counting.
 
 ---
-
-## `~ stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ianodad&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=A855F7&text_color=94A3B8" alt="Ian's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianodad&layout=compact&hide_border=true&langs_count=8&bg_color=0F172A&title_color=22D3EE&text_color=94A3B8" alt="Top languages" />
-
-</div>
 
 ---
 
